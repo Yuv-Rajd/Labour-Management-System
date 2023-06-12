@@ -1,0 +1,28 @@
+body{
+    background: #e6e3e3;
+}
+.nv{
+    background:white;
+}
+.ci{
+    border-radius: 50%;
+    align-self: center;
+    width: 150px;
+    height: 150px;
+    margin-top: 2%;
+}
+.cd{
+    background: #ffffff;
+}
+.cd1{
+    background: rgb(255, 255, 255);
+    padding: 1%;
+    margin: 1%;
+    color: rgb(14, 14, 14);
+}
+.albd{
+    height: 100;
+    background: #e6e3e3;
+    color: rebeccapurple;
+    height: 500px;
+}
