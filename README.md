@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>LABOR MANAGEMENT SYSTEM - Project Info</title>
+    
 </head>
 <body>
     <h1>LABOR MANAGEMENT SYSTEM</h1>
