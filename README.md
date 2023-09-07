@@ -20,6 +20,6 @@
         <li>CSS</li>
         <li>Bootstrap</li>
     </ul>
-    <h1>Live at <a href="https://attendance-web-app.000webhostapp.com/index.php">LMS</a></h1>
+    
 </body>
 </html>
